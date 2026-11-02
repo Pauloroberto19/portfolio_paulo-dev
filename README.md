@@ -1,50 +1,66 @@
-# Portfólio — Paulo
+# 👨‍💻 Olá! Eu sou Paulo Roberto
 
-Site de portfólio feito com HTML, CSS e JavaScript puro, com tema claro/escuro.
+<div align="center">
 
-## Estrutura
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Paulo%20Roberto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia&descAlignY=55&descSize=16" width="100%"/>
 
-```
-portfolio/
-├── index.html
-├── .nojekyll
-├── README.md
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── img/
-    └── foto.jpg
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
 
-> Importante: os nomes das pastas e arquivos são **todos em minúsculo e sem espaços**.
-> O GitHub Pages diferencia maiúsculas de minúsculas (`Style.css` ≠ `style.css`),
-> e foi isso que quebrava o CSS e o JavaScript antes.
+</div>
 
-## Como colocar no ar (GitHub Pages)
+## 🚀 Sobre mim
 
-1. Entre em https://github.com/new e crie um repositório **público**.
-   - Para o endereço ficar `https://Paulo2589s.github.io`, use o nome `Paulo2589s.github.io`.
-   - Com outro nome (ex.: `portfolio`), o endereço será `https://Paulo2589s.github.io/portfolio/`.
-2. Envie os arquivos. Pelo site: **Add file → Upload files**, arraste **o conteúdo** desta pasta
-   (`index.html`, `.nojekyll`, `css`, `js`, `img`) e clique em **Commit changes**.
-   Pelo terminal:
-   ```bash
-   git init
-   git add .
-   git commit -m "Primeiro commit do portfólio"
-   git branch -M main
-   git remote add origin https://github.com/Paulo2589s/NOME-DO-REPOSITORIO.git
-   git push -u origin main
-   ```
-3. No repositório, vá em **Settings → Pages**.
-4. Em **Build and deployment → Source**, escolha **Deploy from a branch**.
-5. Em **Branch**, selecione `main` e a pasta `/ (root)` e clique em **Save**.
-6. Aguarde 1 a 2 minutos e abra o link que aparece no topo da página de Pages.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia, inovação e desenvolvimento de soluções que facilitem o dia a dia das pessoas e empresas.
 
-## Dicas
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Front-end, SQL, lógica de programação e suporte a aplicações.
 
-- O `index.html` precisa ficar na **raiz** do repositório, não dentro de outra pasta.
-- Se o site não atualizar, force a atualização com `Ctrl + F5`.
-- Troque o link do LinkedIn em `index.html` (procure por "TROQUE").
-- Quando publicar o Pet Adoption, edite o botão "Em breve" no `index.html`.
+Tenho experiência profissional nas áreas operacional, logística e administrativa, desenvolvendo habilidades como organização, comunicação, resolução de problemas e trabalho em equipe.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,sql,git,github,vscode" />
+
+</div>
+
+## 💻 Projeto em destaque
+
+### 🔹 TechFlow — Sistema de Chamados e Controle de Estoque
+
+Projeto acadêmico desenvolvido para organizar solicitações de suporte técnico, gerenciar chamados e acompanhar movimentações de estoque, simulando necessidades reais de um ambiente corporativo.
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🎯 Objetivos
+
+- Evoluir como profissional da área de tecnologia.
+- Desenvolver projetos práticos e funcionais.
+- Aprofundar conhecimentos em desenvolvimento de sistemas.
+- Explorar novas tecnologias e ferramentas.
+- Conquistar oportunidades na área de TI.
+
+## 📫 Entre em contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.robertodearaujo2005@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
+
+**"Aprender,
