@@ -63,5 +63,6 @@ Projeto acadêmico desenvolvido para organizar solicitações de suporte técnic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=160&section=footer&text=Obrigado%20pela%20visita!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Volte%20sempre%20%7C%20Vamos%20construir%20o%20futuro%20com%20tecnologia&descAlignY=85&descSize=13" width="100%"/>
 
+</div>
