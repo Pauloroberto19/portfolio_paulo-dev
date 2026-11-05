@@ -35,11 +35,12 @@ Projeto acadêmico desenvolvido para organizar solicitações de suporte técnic
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU
+  USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
 
