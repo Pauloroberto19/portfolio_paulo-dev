@@ -65,4 +65,3 @@ Projeto acadêmico desenvolvido para organizar solicitações de suporte técnic
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
 
-**"Aprender,
